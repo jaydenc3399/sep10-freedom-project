@@ -1,7 +1,7 @@
 # Entry 1
-##### X/X/XX
-
-Text
+##### 10/7/24
+##Picking a topic
+I choose sports because 
 
 [Next](entry02.md)
 
