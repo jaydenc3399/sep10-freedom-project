@@ -17,7 +17,8 @@ I would say right now in the engineering design process im in between the third 
 ### Time management
 Right now I am doing a few extra activities and sports after school and I get back around 6. After that I have enrolled in some classes outside after I come back home also. But I am able to manage my time and I have a sort of schedule that keeps track of what im supposed to do at a certain time period so that I dont forget to do something later on. Also, so that later on I have some free time to do other things that I want and work on things like my blog and the freedom project. 
 
-### 
+### Hard Working
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
