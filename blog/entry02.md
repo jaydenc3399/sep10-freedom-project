@@ -7,7 +7,15 @@ Since the last blog I have gathered information on how sports innovations and ga
 * Diagnostic programs, tracking players conditions and checking which is at a higher risk of injury.
 * Helmets- Helmets prevent serious head injuries and save you from things like concussions.  
 
-## Sources 
+## Sources (Do it later jsut put links) 
+
+
+## Engineering Design Process 
+I would say right now in the engineering design process im in between the third and fouth stage I am creating possible solutions to help people in sports, trying to improve there game and add new inventions that could help revolutionize the sports world and make impacts in the world. Taking technology and sports to the next level. 
+
+## Skills
+### Time management
+Right now I am doing a few extra activities and sports after school and I get back around 6. After that I have enrolled in some classes outside after I come back home also. But 
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
