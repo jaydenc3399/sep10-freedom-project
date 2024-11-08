@@ -7,7 +7,7 @@ Since the last blog I have gathered information on how sports innovations and ga
 * Diagnostic programs, tracking players conditions and checking which is at a higher risk of injury.
 * Helmets- Helmets prevent serious head injuries and save you from things like concussions.  
 
-
+## Sources 
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
