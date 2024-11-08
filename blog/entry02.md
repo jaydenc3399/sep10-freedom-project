@@ -11,11 +11,13 @@ Since the last blog I have gathered information on how sports innovations and ga
 
 
 ## Engineering Design Process 
-I would say right now in the engineering design process im in between the third and fouth stage I am creating possible solutions to help people in sports, trying to improve there game and add new inventions that could help revolutionize the sports world and make impacts in the world. Taking technology and sports to the next level. 
+I would say right now in the engineering design process im in between the third and fouth stage. I so far had brainstormed and I am still in the process of thinking of the most and best possible I am creating possible solutions to help people in sports, trying to improve there game and add new inventions that could help revolutionize the sports world and make impacts in the world. Taking technology and sports to the next level. 
 
 ## Skills
 ### Time management
-Right now I am doing a few extra activities and sports after school and I get back around 6. After that I have enrolled in some classes outside after I come back home also. But 
+Right now I am doing a few extra activities and sports after school and I get back around 6. After that I have enrolled in some classes outside after I come back home also. But I am able to manage my time and I have a sort of schedule that keeps track of what im supposed to do at a certain time period so that I dont forget to do something later on. Also, so that later on I have some free time to do other things that I want and work on things like my blog and the freedom project. 
+
+### 
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
