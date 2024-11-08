@@ -19,6 +19,9 @@ Right now I am doing a few extra activities and sports after school and I get ba
 
 ### Hard Working
 
+
+### Profesonalism 
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
