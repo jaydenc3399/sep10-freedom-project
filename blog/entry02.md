@@ -7,7 +7,7 @@ Since the last blog I have gathered information on how sports innovations and ga
 * Diagnostic programs, tracking players conditions and checking which is at a higher risk of injury.
 * Helmets- Helmets prevent serious head injuries and save you from things like concussions.  
 [Technological Hardware](https://cactusware.com/blog/sports-technology). 
-Also, I founds sports apps that have been put into sports that help the overall game, working with Ai these apps have helped to transform athletic competition, changing and fixing the way athletes train, perform in games, and recover.
+### Also, I founds sports apps that have been put into sports that help the overall game, working with Ai these apps have helped to transform athletic competition, changing and fixing the way athletes train, perform in games, and recover.
 * [Train Heroic](https://www.trainheroic.com/) Provides programs that help people with things like strength and conditioning, it's like a coaching platform
 * [Whoop]( https://www.whoop.com/us/en/) This app helps you track your recovery, sleep and it is a wearable like an apple watch to help you keep track
 * [MyFitness Pal](https://www.myfitnesspal.com/) Helps you track and manage your diet and what you put into your body. 
@@ -16,7 +16,7 @@ These are some apps that I found that helped to improve the game and the world o
 I would say right now in the engineering design process im in between the third and fouth stage. I so far have brainstormed some possible solutions and I am still in the process of thinking of the most and best possible solutions, I am creating possible solutions to help people in sports, trying to improve there game and add new inventions that could help revolutionize the sports world and make impacts in the world. Taking technology and sports to the next level.  
 
 ## Skills 
-### Time management
+### Time management/Consistency 
 Right now I am doing a few extra activities and sports after school and I get back around 6. After that I have enrolled in some classes outside after I come back home also. But I am able to manage my time and I have a sort of schedule that keeps track of what im supposed to do at a certain time period so that I dont forget to do something later on. Also, so that later on I have some free time to do other things that I want and work on things like my blog and the freedom project. 
 
 ### Hard Working/Perserverance
