@@ -20,7 +20,7 @@ For ideas for volleyball I tried to think about innovations that would help voll
 
 
 ### Finalizing my Content
-I reorganized all my points and made them into one so that I could see the informtaion better. We combined the context, Part A and Part B into one. I also added some pictures and the links to my pctures when I was finalizing it. 
+I reorganized all my points and made them into one so that I could see the informtaion better. We combined the context, Part A and Part B into one. I also added some pictures and the links to my pctures when I was finalizing it. [Sports App Picture](https://cdn2.hubspot.net/hubfs/2547723/JF%20-%20Pics%20and%20video/football-apps.jpg) 
 
 ---
 
