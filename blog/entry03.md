@@ -20,9 +20,9 @@ For ideas for volleyball I tried to think about innovations that would help voll
 
 
 ### Finalizing my Content
-I reorganized all my points and made them into one so that I could see the informtaion better. We combined the context, Part A and Part B into one so that it wuld be easier to. I also added some pictures and the links to my pctures when I was finalizing it. 
+I reorganized all my points and made them into one so that I could see the informtaion better. We combined the context, Part A and Part B into one. I also added some pictures and the links to my pctures when I was finalizing it. 
 
 ---
 
 ## Engineering Design Process
-
+As of right now I am still in step four planning the most promising solution because I am finalizing all the ideas and trying to find out which innovation from my ideas that I am going to choose. And the idea that would be most beenifcial to teh sports world and help to improve the game of sports. 
