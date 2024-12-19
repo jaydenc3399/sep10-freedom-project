@@ -7,8 +7,9 @@ I have been creating and thinking about new ideas and innovations for my freedom
 
 ---
 
-### Basketball ideas 
- 
+### Part B Innovation ideas
+--- 
+ ### I was thinking about creating devices that would be beneficial to athletes. I thought about creating holographic equipment that would help basketball players beform better, like creating holographic defenders. Also incopertaing Ai into the game of basketball. Putting a Ai camera inside a basketball so after a missed shot the retractable camera tracks where you are on the court and locates and rolls back to you. So that you wont have to go and pick it up. 
 --- 
 
 ### Finalizing my Content
