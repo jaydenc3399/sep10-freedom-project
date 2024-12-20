@@ -26,7 +26,7 @@ I reorganized all my points and made them into one so that I could see the infor
 ---
 
 ## Engineering Design Process
-As of right now I am still in fourth step planning the most promising solution because I am finalizing all the ideas and trying to find out which innovation from my ideas that I am going to choose. And the idea that would be most benifcial to the sports world and help to improve the game of sports. 
+As of right now I am still in fourth step planning the most promising solution because I jsut finished with the third step which was brainstroming solutions. Now I am finalizing all the ideas and trying to find out which future innovations from my ideas that I am going to choose. And the idea that would be most benifcial to the sports world and help to improve the game of sports. The ideas that I have thought of for future innovations was putting and incoperating Ai into the field of sports. Things like holograms, drones, and basically improving and using devices that have not been used yet in the world. 
 
 ## Skills 
 ---
