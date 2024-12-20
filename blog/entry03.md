@@ -35,7 +35,13 @@ As of right now I am still in step four planning the most promising solution bec
 I was am able to balance my time and do the work that I am assigned with even on a busy schedule. Right now I play for a few teams in our school and sometimes we have games and practices, I dont get home until 7. Which does not leave me much time to do my work. But I make good use of my time and manage it well. I created a schedule and routine to do when I come back home. I put everything that is importnat in the front and put that as a priority to do. With the little free time I have left I usually do other things like working on studing for test or even doing blogs and working more and thinking about the freedom project. 
 
 ## Focus/Concentration/Hard Work
-When doing work I am fully commited to it and I seldom procrastinate aalot. I stay on the task taht im supposed to work on and I dont stop untill the task is done. 
+When doing work I am fully commited to it and I seldom procrastinate a lot. I stay on the task that im supposed to work on and I don't stop untill the task is done. I dont get distracted easily at all which allows me to be able to concentrate and focus on the work. Applying this into the everyday life and also in our class putting in my hard work and effort because when doing the freedom project it requires people and me to have the dedication and focus to do things and that hard work to get things done. If i fail, in the end its better to try and get something wrong then to wonder why and accomplsih nothing at the end and be left with regrets.
+
+
+
+
+
+
 
 
 
