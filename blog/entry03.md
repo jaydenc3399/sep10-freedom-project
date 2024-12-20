@@ -18,6 +18,7 @@ I have been creating and thinking about new ideas and innovations for my freedom
 ### Volleyball Innovation Ideas
 For ideas for volleyball I tried to think about innovations that would help volleyball players play better and also have fun. In this I thought about a robot that helps you as a trainer and helps set and practices it with you. A hand device that attaches onto your hand in order to fix your form and gives you feedback. A volleyball that can turn into any other sport ball like a basketball for example. 
 
+---
 
 ### Finalizing my Content
 I reorganized all my points and made them into one so that I could see the informtaion better. We combined the context, Part A and Part B into one. I also added some pictures and the links to my pctures when I was finalizing it. [Sports App Picture](https://cdn2.hubspot.net/hubfs/2547723/JF%20-%20Pics%20and%20video/football-apps.jpg) [Wearable tech picture](https://www.catapult.com/blog/wearable-technology-in-sports) 
