@@ -31,4 +31,10 @@ As of right now I am still in step four planning the most promising solution bec
 ---
 
 ## Time management 
-I was am able to balance my time and do the work that I am assigned with even on a bust schedule. Right now I play for a few teams in our school and sometime we have games and I dont get home until 7. Which does not leave me much time to do my work. But I make good use of my time and manage it well. I 
+I was am able to balance my time and do the work that I am assigned with even on a busy schedule. Right now I play for a few teams in our school and sometimes we have games and practices, I dont get home until 7. Which does not leave me much time to do my work. But I make good use of my time and manage it well. I created a schedule and routine to do when I come back home. I put everything that is importnat in the front and put that as a priority to do. With the little free time I have left I usually do other things like working on studing for test or even doing blogs and working more and thinking about the freedom project. 
+
+## 
+
+
+
+
