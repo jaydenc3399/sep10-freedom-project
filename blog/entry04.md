@@ -66,6 +66,9 @@ I changed the border radius animtaion duration and iteration. After altering the
 
 --- 
 
+Another part that I changed from the orignal code was the keyframes. At first I did not know what they really were but by changing the numbers around I was able to figure out what the keyframes do. This is what the code for the keyframes look like after I changed the numbers inside the keyframe. 
+
+
 
 
 
