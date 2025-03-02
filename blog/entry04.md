@@ -65,6 +65,7 @@ This part was the original code and after changing some code around on pickcode 
 ---
 
 I changed the border radius animation duration and iteration. After altering the radius the shape turned from a circle to a sort of square and when it bounces it goes to a rectangle, the iteration count I changed the three second to infinite which is what I learned on free code camp lessons. This made it so that the animation would play an infinite amount of times. The last thing I changed around was the animation duration, in the beginning I thought it was too slow so I changed it to a faster speed using 0.5s instead of three seconds. 
+![square](square.png)
 
 --- 
 
