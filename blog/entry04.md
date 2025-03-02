@@ -94,6 +94,8 @@ Adding the transform and the opacity sort of made the object have a different an
 ## Skills
 
 ### Time Management 
+I am able to balance my time and do things like homework that I am assigned, even on a busy schedule. Right now I take prep classes for the sat and also do some voulenterring outside of school. Even with this tight schedule I make good use of my time and manage it well. I make sure that I still have time to do homework, study for tests and put some time to work on other big things like the freedom project and others. I created a schedule and developed a sort of habit and routine. Everyday when I come home I just follow this and I end up with some time to do work or give myself a little rest from work. I mark everything that is important and that is a priotiry and do it first before doing any other work.  
+
 
 
 
