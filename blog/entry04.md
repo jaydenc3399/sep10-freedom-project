@@ -38,6 +38,8 @@ I tinkered with animate the css by changing around the numbers for things like t
     }
   }
 ```
+<img src="blog/Screenshot 2025-03-01 10.27.53 PM.png" alt="circle">
+
 ---
 
 This part was the orignial code and after changing some code around on pickcode to check how the code would change when I alter things and adding some new code that I learned from free code camp lessons this is what it looked like 
