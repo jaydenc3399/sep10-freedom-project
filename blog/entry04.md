@@ -42,7 +42,7 @@ I tinkered with animate the css by changing around the numbers for things like t
 
 ---
 
-This part was the orignial code and after changing some code around on pickcode to check how the code would change when I alter things and adding some new code that I learned from free code camp lessons this is what it looked like 
+This part was the original code and after changing some code around on pickcode to check how the code would change when I alter things and adding some new code that I learned from free code camp lessons this is what it looked like 
 
 ```CSS
 .ball {
@@ -64,11 +64,11 @@ This part was the orignial code and after changing some code around on pickcode 
 
 ---
 
-I changed the border radius animtaion duration and iteration. After altering the radius the shape turned from a circle to a sort of square and when it bounces it goes to a rectangle, the iteration count I changed the three second to infinite which is what I learned on free code camp lessons. This made it so that the animation would play an infinite amount of times. The last thing I changed around was the animtaion duration, in the beginning I thought it was too slow so I chnaged it to a faster speed using 0.5s instead of three seconds. 
+I changed the border radius animation duration and iteration. After altering the radius the shape turned from a circle to a sort of square and when it bounces it goes to a rectangle, the iteration count I changed the three second to infinite which is what I learned on free code camp lessons. This made it so that the animation would play an infinite amount of times. The last thing I changed around was the animation duration, in the beginning I thought it was too slow so I changed it to a faster speed using 0.5s instead of three seconds. 
 
 --- 
 
-Another part that I changed from the orignal code was the keyframes. At first I did not know what they really were but by changing the numbers around I was able to figure out what the keyframes do. This is what the code for the keyframes look like after I changed the numbers inside the keyframe. 
+Another part that I changed from the original code was the keyframes. At first I did not know what they really were but by changing the numbers around I was able to figure out what the keyframes do. This is what the code for the keyframes look like after I changed the numbers inside the keyframe. 
 
 ```CSS
 @keyframes bounce{
@@ -94,9 +94,10 @@ Adding the transform and the opacity sort of made the object have a different an
 ## Skills
 
 ### Time Management 
-I am able to balance my time and do things like homework that I am assigned, even on a busy schedule. Right now I take prep classes for the sat and also do some voulenterring outside of school. Even with this tight schedule I make good use of my time and manage it well. I make sure that I still have time to do homework, study for tests and put some time to work on other big things like the freedom project and others. I created a schedule and developed a sort of habit and routine. Everyday when I come home I just follow this and I end up with some time to do work or give myself a little rest from work. I mark everything that is important and that is a priotiry and do it first before doing any other work.  
+I am able to balance my time and do things like homework that I am assigned, even on a busy schedule. Right now I take prep classes for the sat and also do some volunteering outside of school. Even with this tight schedule I make good use of my time and manage it well. I make sure that I still have time to do homework, study for tests and put some time to work on other big things like the freedom project and others. I created a schedule and developed a sort of habit and routine. Everyday when I come home I just follow this and I end up with some time to do work or give myself a little rest from work. I mark everything that is important and that is a priority and do it first before doing any other work.  
 
-
+### Embracing failure
+When doing coding or anything and even in sports failure has always been a major setback in my life. Losing basketball games and not understanding the code, ending up getting the whole code wrong. But I have come to learning and understanding that failure is good and its normal for everyone. Failing dosen't mean that you're bad at anything. It's just another way of saying to not give up and to try again no matter how many times you fail. Each time in basketball my team lost, we always tried to figure out why we lost and to improve the next time, working harder to get better. Each time it worked and even though we were not winning we saw results and progress of us getting better. During coding lessons also, not understanding the code and getting the whole assignment wrong, but after practice and taking time to understand I finally understood the topic and improving through my failures. In the end I found out failure leads to success in a way if you use that failure to learn.  
 
 
 
