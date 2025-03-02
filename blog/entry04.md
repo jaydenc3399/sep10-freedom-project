@@ -38,7 +38,7 @@ I tinkered with animate the css by changing around the numbers for things like t
     }
   }
 ```
-![circle](Screenshot 2025-03-01 10.27.53 PM.png)
+![circle](circle.png)
 
 ---
 
