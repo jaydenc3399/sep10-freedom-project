@@ -68,6 +68,30 @@ I changed the border radius animtaion duration and iteration. After altering the
 
 Another part that I changed from the orignal code was the keyframes. At first I did not know what they really were but by changing the numbers around I was able to figure out what the keyframes do. This is what the code for the keyframes look like after I changed the numbers inside the keyframe. 
 
+```CSS
+@keyframes bounce{
+    0% {
+      top: 70px;
+    }
+    50% {
+      top: 20px;
+      width: 10px;
+      height: 2px;
+      transform: scale(0.5);
+    }
+    100% {
+      top: 10px;
+      opacity: 0.5;
+    }
+  }
+```
+
+---
+
+Adding the transform and the opacity sort of made the object have a different animation. The square starts from a big square and sort of vanishes to you cant see it and reappears. 
+
+
+
 
 
 
