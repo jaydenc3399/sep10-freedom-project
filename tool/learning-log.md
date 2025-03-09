@@ -57,8 +57,10 @@ button:hover {
 ```CSS
 box-shadow: 3px 3px red, -1em 0 .4em
 ```
-* I typed this online and a yellowish color was on the left and red was on the right 
+* I typed this online and a yellowish color was on the left and red was on the right
 
+---
+### Some things that I am going to try next is maybe rotation and some harder animations that have more action to it and also find out the rest of the basics of animation like animation direction and fill-mode and more. 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
