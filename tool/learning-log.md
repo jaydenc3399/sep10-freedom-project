@@ -60,7 +60,37 @@ box-shadow: 3px 3px red, -1em 0 .4em
 * I typed this online and a yellowish color was on the left and red was on the right
 
 ---
-### Some things that I am going to try next is maybe rotation and some harder animations that have more action to it and also find out the rest of the basics of animation like animation direction and fill-mode and more. 
+### Some things that I am going to try next is maybe rotation and some harder animations that have more action to it and also find out the rest of the basics of animation like animation direction and fill-mode and more.
+
+# 3/13/25
+## [CSS Borders](https://www.youtube.com/watch?v=ezP4kbOvs_E)
+* CSS Borders add a box or border around your element depending on color preference
+```
+.card {
+  content: '';
+  position:absolute;
+  height:100%;
+  width:100%;
+  background:linear-gradient;
+  top:50%;
+  left:50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding:3px;
+  border-radius: 10px;
+}
+```
+* In this code I changed the `background:linear-gradient;` to something new I found on [Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient)
+
+* Instead of `linear-gradient` I put something new which was `Conic-gradient`
+* `Conic-gradient`  creates an image consisting of a gradient with color transitions rotated around a center point
+* I added different types of colors in the `conic-gradient` creating a colorful border
+
+---
+
+## Some things that I am going to try next is maybe some new types of animations like from a video I skimmed before, the title had different commands I was interested in like.
+`h1::after;` `h2::before;`
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
