@@ -91,9 +91,49 @@ box-shadow: 3px 3px red, -1em 0 .4em
 ## Some things that I am going to try next is maybe some new types of animations like from a video I skimmed before, the title had different commands I was interested in like.
 `h1::after;` `h2::before;`
 
+# 3/22/25
+# [Display Property](https://www.youtube.com/watch?v=Qf-wVa9y9V4)
+* The `display` property specifies the display behavior
+
+```CSS
+.box {
+    height:200px;
+    width: 200px;
+    background-color: lightblue;
+    font-size: 30px;
+}
+
+body {
+    border:8px solid;
+}
+```
+* Added the `display` property adding it to the body using `display: flex;`
+*	Displayed the boxes in a block-level flex container in a line
+
+---
+# [CSS display Property](https://www.w3schools.com/cssref/pr_class_display.php)
+
+* This website contained property values that can be placed on `display`
+
+```CSS
+body {
+    border:8px solid;
+    display:flex;
+}
+```
+* Changed `display:flex;` to `display:inline;`
+* Nothing happened, reverted back to normal
+* `display:inline;` is default
+* Height and width properties will have no effect
+
+---
+
+## Some things that I am going to try next is maybe more basic things so taht I can get a grasp of what CSS is and the basics of it before I jump into all the cool aniamtion things like changing border colors and more.
+
+
 <!--
 * Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
+* Things hyou tried, progress you made, etc
 * Challenges, a-ha moments, etc
 * Questions you still have
 * What you're going to try next
