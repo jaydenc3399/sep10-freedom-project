@@ -131,6 +131,70 @@ body {
 ## Some things that I am going to try next is maybe more basic things so taht I can get a grasp of what CSS is and the basics of it before I jump into all the cool aniamtion things like changing border colors and more.
 
 
+# 3/24/25
+## [Before and After::](https://www.youtube.com/watch?v=dIUOWdwwZBw)
+
+## `After::`  `Before::`
+
+* Using `before::` places an empty element before text content
+* `after::` places an empty element before content
+# Content
+* Its a **pseudo element** so you have to define everything on your own
+* Need to set **content** first
+* Without content it wont work
+
+---
+
+* If used for design purposes use ''; , leave it empty
+* No content makes the element 0 or not visible.
+* `position:absolute;` and `position:relative;` on h1 to make it visibile
+
+# Testing/tinkering
+* Pickcode tried to use before and after elements
+* Added different types of code to `::after`
+```CSS
+h1::after {
+    content: 'hello';
+    background-color: blue;
+    margin:20px;
+    border-radius: 100px
+    height: 4px;
+    position: absolute;
+    bottom: 0px;
+    top: 50%
+}
+```
+---
+
+### Tested out both before and after and added them together
+
+```CSS
+h1::before {
+    content: 'bye';
+    background-color: aqua;
+    margin: 20px;
+    bottom: 20%;
+}
+
+h1::after {
+    content: 'hello';
+    background-color: blue;
+    margin:20px;
+    border-radius: 100px
+    height: 4px;
+    position: absolute;
+    bottom: 0px;
+    top: 50%
+}
+```
+
+---
+
+## Some new things that I am going to try is maybe just tinkering around with different types of codes like `animation-play-state` and looking at some lessons of Free Code camp so I can learn more new codes for animation.
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things hyou tried, progress you made, etc
