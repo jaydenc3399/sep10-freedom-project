@@ -192,6 +192,54 @@ h1::after {
 
 ## Some new things that I am going to try is maybe just tinkering around with different types of codes like `animation-play-state` and looking at some lessons of Free Code camp so I can learn more new codes for animation.
 
+# 3/27
+## [FCC Keyframe Lesson](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work) and [Youtube Video](https://www.youtube.com/watch?v=_OEUbgLTWH0&t=77s)
+
+# Keyframes
+
+* #### Must state the `animation-name` for the keyframes to work
+* #### Keyframes name must match the `animation name`
+* #### Allows detail specifications of an animations behavior at various points
+
+```CSS
+@keyframes bounce {
+    0% {
+      top: 0px;
+    }
+    100% {
+      top: 249px;
+    }
+```
+* I added took this keyframes from FCC and edited it around
+* I added changes to different percentages like 25% and 50%.
+* Also made some specifications to the width and the height at 25% and 50%.
+
+---
+
+```CSS
+@keyframes bounce {
+    0% {
+      top: 0px;
+    }
+    25% {
+        width: 10px;
+        background: red;
+    }
+    50% {
+        height: 50px;
+        background: yellow
+    }
+    100% {
+      top: 249px;
+      background: green;
+    }
+  }
+  ```
+  * I watched how the shape changed and the color changed at each percent in the animation
+
+---
+
+## I am going to maybe try to practice with keyframes more and using it on different shapes and learning different animations so I can use that to apply it to my keyframes also. 
 
 
 
