@@ -239,9 +239,46 @@ h1::after {
 
 ---
 
-## I am going to maybe try to practice with keyframes more and using it on different shapes and learning different animations so I can use that to apply it to my keyframes also. 
+## I am going to maybe try to practice with keyframes more and using it on different shapes and learning different animations so I can use that to apply it to my keyframes also.
 
+# 4/5
+# [Transition Property](https://www.youtube.com/watch?v=xdap5e3-DwM) [CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
+## *Transform Properties*
+
+* `Transtiion-Property:;` defines which proeprty the transition effect should apply to
+
+* `transition-duration:;` How long the transition effect takes
+
+* `transition-timing-function:;` Specifies the speed curve of the transition effect
+
+* `transition-delay:;` 	Specifies a delay (in seconds) for the transition effect
+
+---
+
+ # `Animation-timing-function`
+* ### Ease- specifies a transition effect with a slow start, then fast, then end slowly (this is default)
+* ### linear - specifies a transition effect with the same speed from start to end
+* ### ease-in - specifies a transition effect with a slow start
+* ### ease-out - specifies a transition effect with a slow end
+
+```CSS
+    transition-property: width;
+    transition-duration: 2s;
+    animation-timing-function: ease;
+```
+* I tried changing the animation-duration to inifnite
+* Instead of taking two seconds it jsut went instantly and took up the width
+```CSS
+transition-property: height;
+```
+* #### I changed the width property here to height
+* #### The height started to change instead of the width now
+* #### It went up to down instead of going left to right
+
+---
+
+## Some questions I still have about this is this transition property the same thing as the animation timing function because it shares the same ending jsut the fron is different instead of saying animation it says tranistion so is there a difference really?
 
 <!--
 * Links you used today (websites, videos, etc)
