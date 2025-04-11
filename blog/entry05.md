@@ -62,7 +62,7 @@ I combined my understanding of keyframes and other things that I learned here li
 
 ---
 
-## Another topic I learned about in animation was the `before::` and `after::` properties. Some notes that I took down from the [Before:: and After:: Youtube Video](https://www.youtube.com/watch?v=dIUOWdwwZBw) was...
+## Another topic I learned about in animation was the `before::` and `after::` properties. Some notes that I took down from the [::Before and ::After Youtube Video](https://www.youtube.com/watch?v=dIUOWdwwZBw) was...
 
 --- 
 
