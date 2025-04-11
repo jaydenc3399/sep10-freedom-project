@@ -106,6 +106,11 @@ I editied the postion here and highlighted a diffrent color so that I could diff
 
 # Skills 
 
+---
+
+# Time Management
+
+
 
 
 [Previous](entry04.md) | [Next](entry06.md)
