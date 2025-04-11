@@ -109,7 +109,10 @@ I editied the postion here and highlighted a diffrent color so that I could diff
 ---
 
 # Time Management
-I am able to manage my time on the tight schedule that im on. Right now I do some sports outside of school along with some new clubs that I joined recently. I also do some voulenterring outside of school and some SAT prep classes on the weekends. Along with all of this I have created a plan on my phone, a list of tasks so that I dont forget what I need to do when I go home because I go home at a late time around 7-7:30🕥. With the list that I created I am able to prioritize the important tasks that I have so that when I go home I do those important tasks and the ones that the deadline is almost due. 
+I am able to manage my time on the tight schedule that im on. Right now I do some sports outside of school along with some new clubs that I joined recently. I also do some voulenterring outside of school and some SAT prep classes on the weekends. Along with all of this I have created a plan on my phone, a list of tasks so that I dont forget what I need to do when I go home because I go home at a late time around 7-7:30🕥. With the list that I created I am able to prioritize the important tasks that I have so that when I go home I do those important tasks and the ones that the deadline is almost due. I have some free time at the end of all of this and I work on some tasks that are due soon on a different date or I take some time to relax and take a break. 
+
+# Overcoming Challenges/ Embracing Failure
+Learning on my own has led to many problems that I had to solve on my own since 
 
 
 
