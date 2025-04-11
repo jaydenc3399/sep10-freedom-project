@@ -9,7 +9,7 @@ From the last blog entry I just finished choosing my freedom project tool which 
 
 ---
 
-Some examples of tinkering that I did on pickcode for tinkering looked like this. 
+After learning more about keyframes and translation I put my understanding of the two together, the code below is what I created  
 
 ```CSS
 @keyframes bounce {
@@ -44,7 +44,21 @@ Some examples of tinkering that I did on pickcode for tinkering looked like this
     }
 }
 ```
-I combined my understanding of keyframes and other things that I learned here like the trasnform property and translate. These keyframes created a change in the animation at different points into the animation as seen in the percentage tiles at 100% it turns blue and the width and height changes
+I combined my understanding of keyframes and other things that I learned here like the trasnform property and translate. These keyframes created a change in the animation at different points into the animation as seen in the percentage tiles at 100% it turns blue and the width and height changes at that specific time, the `translateX` moves the shape along a x plane like in math. 
+
+--- 
+
+## Notes of Keyframes and Translation: 
+* `Transtiion-Property:;` defines which proeprty the transition effect should apply to
+* `transition-duration:;` How long the transition effect takes
+* `transition-timing-function:;` Specifies the speed curve of the transition effect
+* `transition-delay:;` 	Specifies a delay (in seconds) for the transition effect
+
+  ---
+  
+* Must state the `animation-name` for the keyframes to work
+* Keyframes name must match the `animation name
+* Allows detail specifications of an animations behavior at various points
 
 
 
