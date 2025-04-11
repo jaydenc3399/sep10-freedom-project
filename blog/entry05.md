@@ -112,7 +112,12 @@ I editied the postion here and highlighted a diffrent color so that I could diff
 I am able to manage my time on the tight schedule that im on. Right now I do some sports outside of school along with some new clubs that I joined recently. I also do some voulenterring outside of school and some SAT prep classes on the weekends. Along with all of this I have created a plan on my phone, a list of tasks so that I dont forget what I need to do when I go home because I go home at a late time around 7-7:30🕥. With the list that I created I am able to prioritize the important tasks that I have so that when I go home I do those important tasks and the ones that the deadline is almost due. I have some free time at the end of all of this and I work on some tasks that are due soon on a different date or I take some time to relax and take a break. 
 
 # Overcoming Challenges/ Embracing Failure
-Learning on my own has led to many problems that I had to solve on my own since 
+Learning on my own for my freedom project has led to many problems that I had to solve on my own since there wasnt really anyone to help me. So I took it upon myself to fix my own mistakes and searched online for solutions to my problems. These were some setbacks that I faced and also in my life when playing sports sometimes I was able to win the games however sometimes my team would drag me down a little 
+
+
+
+When doing coding or anything and even in sports failure has always been a major setback in my life. Losing basketball games and not understanding the code, ending up getting the whole code wrong. But I have come to learning and understanding that failure is good and its normal for everyone. Failing dosen't mean that you're bad at anything. It's just another way of saying to not give up and to try again no matter how many times you fail. Each time in basketball my team lost, we always tried to figure out why we lost and to improve the next time, working harder to get better. Each time it worked and even though we were not winning we saw results and progress of us getting better. During coding lessons also, not understanding the code and getting the whole assignment wrong, but after practice and taking time to understand I finally understood the topic and improving through my failures. In the end I found out failure leads to success in a way if you use that failure to learn.  
+
 
 
 
