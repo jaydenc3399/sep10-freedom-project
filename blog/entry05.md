@@ -44,7 +44,7 @@ After learning more about keyframes and translation I put my understanding of th
     }
 }
 ```
-I combined my understanding of keyframes and other things that I learned here like the trasnform property and translate. These keyframes created a change in the animation at different points into the animation as seen in the percentage tiles at 100% it turns blue and the width and height changes at that specific time, the `translateX` moves the shape along a x plane like in math. 
+I combined my understanding of keyframes and other things that I learned here like the trasnform property and translate. These keyframes create a change in the animation at different points in the animation as seen in the percentage tiles at 100% it turns blue and the width and height changes at that specific time, the `translateX` moves the shape along a x plane like in math. 
 
 --- 
 
@@ -86,7 +86,7 @@ h1::before {
     bottom: 20%; 
 }
 ```
-This code here put the text that was inside my content before my heading which was My Website Project. With the code here, my content inside was BYE, so before the My Website Project it put the word BYE. Then after I tried to combine my learning of both the before and after propertys and I added the after property, it looked like this. 
+This code here put the text that was inside my content before my heading which was My Website Project. With the code here, my content inside was BYE, so before the My Website Project it put the word BYE. Then after I tried to combine my learning of both the before and after properties and I added the after property, it looked like this. 
 
 ```CSS
 h1::after {
@@ -100,7 +100,7 @@ h1::after {
     top: 50%
 }
 ```
-I editied the postion here and highlighted a diffrent color so that I could differentiate the difference between the two. As the name suggests the after property just puts animations, code, or text after whatever text or code you have in the beginning. This time the BYE My Website porject was still here but the new text that I added was hello which went after the orignial text and since I changed dimensions it landed on the bottom. 
+I edited the position here and highlighted a different color so that I could differentiate the difference between the two. As the name suggests the after property just puts animations, code, or text after whatever text or code you have in the beginning. This time the BYE My Website project was still here but the new text that I added was hello which went after the original text and since I changed dimensions it landed on the bottom. 
 
 ---
 
@@ -109,10 +109,10 @@ I editied the postion here and highlighted a diffrent color so that I could diff
 ---
 
 # Time Management
-I am able to manage my time on the tight schedule that im on. Right now I do some sports outside of school along with some new clubs that I joined recently. I also do some voulenterring outside of school and some SAT prep classes on the weekends. Along with all of this I have created a plan on my phone, a list of tasks so that I dont forget what I need to do when I go home because I go home at a late time around 7-7:30🕥. With the list that I created I am able to prioritize the important tasks that I have so that when I go home I do those important tasks and the ones that the deadline is almost due. I have some free time at the end of all of this and I work on some tasks that are due soon on a different date or I take some time to relax and take a break. 
+I am able to manage my time on the tight schedule that im on. Right now I do some sports outside of school along with some new clubs that I joined recently. I also do some volunteering outside of school and some SAT prep classes on the weekends. Along with all of this I have created a plan on my phone, a list of tasks so that I don't forget what I need to do when I go home because I go home at a late time around 7-7:30🕥. With the list that I created I am able to prioritize the important tasks that I have so that when I go home I do those important tasks and the ones that the deadline is almost due. I have some free time at the end of all of this and I work on some tasks that are due soon on a different date or I take some time to relax and take a break. 
 
 # Overcoming Challenges/ Embracing Failure
-Learning on my own for my freedom project has led to some problems that I had to solve on my own. Some of the code was difficult for me to understand and some people didn't do the lessons that I was doing so it was different. So I took it upon myself to fix my own mistakes and searched online for solutions to my problems no matter how many times I got the code wrongg and it didn't work, I still kepy going.. These were some setbacks that I faced and also in my life when playing sports sometimes I was able to win the games however sometimes my team would drag me down a little and that would upset me but I never gave up there and just continued to keep going and continue practicing so that I can become better. I also overcame some mental things like when I don't want to do homework but I still push myself to do it no matter how boring it is. I still find a way to push myself. Also one test, I got a really low grade on my chemsitry test but after studying more and putting more work in I was able to bring my grade up and also get a better grade on my next test. 
+Learning on my own for my freedom project has led to some problems that I had to solve on my own. Some of the code was difficult for me to understand and some people didn't do the lessons that I was doing so it was different. So I took it upon myself to fix my own mistakes and searched online for solutions to my problems no matter how many times I got the code wrong and it didn't work, I still kept going. These were some setbacks that I faced and also in my life when playing sports sometimes I was able to win the games. However sometimes my team would drag me down a little and that would upset me but I never gave up and just continued to keep going and continue practicing so that I can become better. I also overcame some mental things like when I don't want to do homework but I still push myself to do it no matter how boring it is. I still find a way to push myself. Also one test, I got a really low grade on my chemistry test but after studying more and putting more work in I was able to bring my grade up and also get a better grade on my next test. 
 
 
 
