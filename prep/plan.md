@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](prep/Computer_Wireframe.png)
-* [Desktop]()
+* [Mobile](Mobile-Wireframe.png)
+* [Desktop](Computer-Wireframe.png)
 
 ## Colors
 * `black`
