@@ -11,9 +11,34 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
+    <style>
+      .background {
+        width: 100%;
+        padding-top: 0px;
+        position: absolute;
+          text-align: center;
+          right: 0px;
+          top: 200px;
+          z-index: 0;
+      }
+      * {
+        z-index: 100000 !important;
+      }
+      nav {
+        margin: 0px;
+      }
+
+      .bigger-text {
+        font-size: 50px;
+      }
+
+      .size-mover {
+        margin-top: 0px;
+      }
+    </style>
     <body>
         <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg bg-light;">
+        <nav class="navbar navbar-expand-lg bg-dark;">
             <div class="container-fluid">
               <a class="navbar-brand" href="#">Navbar</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,21 +63,28 @@
             </div>
           </nav>
         <!-- Header - set the background image for the header in the line below-->
-        <header class="py-5 bg-image-full" style="background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1600x900')">
+        <header class="py-5 bg-image-full" style="background-image: src (../pictures/sports-background.png)">
             <div class="text-center my-5">
-                <img class="img-fluid rounded-circle mb-4" src="https://dummyimage.com/150x150/6c757d/dee2e6.jpg" alt="..." />
+                <img class="mb-4 background" src="../pictures/sports-background.png" alt="..." />
                 <h1 class="text-white fs-3 fw-bolder">Full Width Pics</h1>
                 <p class="text-white-50 mb-0">Landing Page Template</p>
             </div>
         </header>
         <!-- Content section-->
-        <section class="py-5">
+        <section class="py-5 size-mover">
             <div class="container my-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
-                        <h2>Full Width Backgrounds</h2>
-                        <p class="lead">A single, lightweight helper class allows you to add engaging, full width background images to sections of your page.</p>
-                        <p class="mb-0">The universe is almost 14 billion years old, and, wow! Life had no problem starting here on Earth! I think it would be inexcusably egocentric of us to suggest that we're alone in the universe.</p>
+                        <h2 class= "bigger-text">Sports Technology</h2>
+                        <p class="lead"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                          <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z"/>
+                        </svg><strong>Sports are beneficial to health and exciting activities that are performed and enjoyed by many through things like competitions.</p></strong>
+                        <p class="lead"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                          <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z"/>
+                        </svg><strong>Sports are all about just playing and having fun, but how do things like sports apps, device wearables, and AI, play a role inside sports? </p></strong>
+                        <p class="lead"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                          <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z"/>
+                        </svg>Sports are all about just playing and having fun, but how do things like sports apps, device wearables, and AI, play a role inside sports?</p>
                     </div>
                 </div>
             </div>
