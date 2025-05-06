@@ -1,4 +1,4 @@
-img {
+  .pan {
   width:100%;
   height: 900px;
   z-index: 1;
@@ -49,17 +49,22 @@ p {
   bottom: 20%;
   font-family: "Delius Swash Caps", cursive;
 }
-}
+
 
 .dog {
   z-index: 2;
   text-align: center;
   position: absolute;
-  top: 120%;
+  top: 90%;
   left: 35%;
   font-size: 20px;
   padding-right: 30%;
   bottom: 20%;
   font-family: "Delius Swash Caps", cursive;
 }
+
+img {
+  width: 200px;
+  height: 400px;
+  padding: 10px; 0
 }
