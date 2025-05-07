@@ -109,3 +109,22 @@ h4 {
   left: 750px;
   bottom: 635px;
 }
+
+.hover [
+  font-weight:bold;
+  background: linear-gradient(to right, red, orangeyellow, green, blue)
+  tranistion 0.5 ease;
+
+@keyframes colorful {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+.colorful:hover {
+  animation: colorful 2s linear inifnite;
+}
+]
+
