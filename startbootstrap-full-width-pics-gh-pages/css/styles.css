@@ -104,12 +104,6 @@ h4 {
 }
 
 
-
-.done {
-  left: 750px;
-  bottom: 635px;
-}
-
 .hover [
   font-weight:bold;
   background: linear-gradient(to right, red, orangeyellow, green, blue)
