@@ -46,7 +46,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+|Winnie |I liked how you used your animation tool.|Make the text so that it dosen't overlap and go on top of each other when minimized|
 |   |   |
 |   |   |
 |   |   |
@@ -54,3 +54,6 @@
 |   |   |
 
 -->
+Making my page more responsive so that when the viewport of any device looks good and each card and everything can stack on eachother like a mobile .
+- Make sure that my text does not overlap with the background image when I minimize the screen.
+- Add more animation to the age and use the tool a little more.
