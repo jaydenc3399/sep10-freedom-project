@@ -103,22 +103,80 @@
     font-size:20px;
   }
 
-
-  .hover [
-    font-weight:bold;
-    background: linear-gradient(to right, red, orangeyellow, green, blue)
-    tranistion 0.5 ease;
-
-  @keyframes colorful {
-    0% {
-      background-position: 0% 50%;
-    }
-    100% {
-      background-position: 100% 50%;
-    }
+  .bob {
+    padding-right: 10px;
+    padding-left: 10px;
   }
-  .colorful:hover {
-    animation: colorful 2s linear inifnite;
-  }
-  ]
 
+
+@media (min-width: 1200px) {
+  .card {
+    margin: 1rem auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .card {
+    width: 100% !important;
+  }
+
+  .container, .container-md {
+    padding: 0 15px;
+  }
+
+  h1, h2 {
+    font-size: 1.8rem;
+  }
+
+  .caro {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  h1, h2 {
+    font-size: 1.2rem;
+  }
+
+  .navbar-brand {
+    font-size: 1rem;
+  }
+
+  .carousel-inner img {
+    height: auto;
+    width: 100%;
+  }
+
+  .card-body li {
+    font-size: 0.9rem;
+  }
+}
+
+
+
+.navbar-brand {
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  transition: color 0.3s ease-in-out;
+  background: linear-gradient(45deg, orange, yellow, red);
+}
+
+
+.card:hover {
+  animation: hop 1s infinite;
+}
+
+@keyframes hop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
