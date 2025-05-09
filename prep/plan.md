@@ -47,8 +47,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |Winnie |I liked how you used your animation tool.|Make the text so that it dosen't overlap and go on top of each other when minimized|
-|   |   |
-|   |   |
+| Jehan  |  I like how the card animate when you hover over it. | I believe that something that you can improve on is changing the placement of the heartbeat. Something else that you can work on is making the text more visible behind the begining background. You can also change the sizing of each of the images. You can also have a more consistent color theme, also try changing the sizing of the cards. You can also change the theme of the text. Fix the text alignment.
+|  Darren | Your cards works well and they adjust their size as well as the image size. Your caousels also work well.  | You shoulld fix your second caousel's images being very wide. You probably adjusted both the width and height of it so it ends up stretched out, so just remove the css changing its height.
 |   |   |
 |   |   |
 |   |   |
