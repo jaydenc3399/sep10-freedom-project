@@ -49,7 +49,7 @@ and for the version 5.3 which is the newer version it looked like this
   </button>
 </div>
 ```
-
+The code for the 5.3 looked a lot more different and I made this mistake back then but I did it again, this time I made sure to remind myself whenever I do another project. 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
