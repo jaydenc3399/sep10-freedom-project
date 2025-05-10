@@ -129,11 +129,7 @@
   }
 }
 
-@media (max-width: 575px) {
-  h1, h2 {
-    font-size: 1.2rem;
-  }
-
+@media (max-width: 575px) {=
   .navbar-brand {
     font-size: 1rem;
   }
