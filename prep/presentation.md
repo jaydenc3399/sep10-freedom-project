@@ -1,41 +1,23 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Just imagine carrying a whole entire basketball field or volleyball field at thepalm of your hand and being able to use it anywhere and anytime. I have some possible future innovations like 3-D holographic courts projected by drones and all you need is open space just name when and where.
 
 ## Product
-* 
+* I will first start off with some broad information about sports and how things like devices and hardware and ai apply to the modern generation of sports.
+* Small demo clicking around and showing the animations, the tool I used
+* Minimize screen to show responsiveness
 
 ## Process
-* 
+* MVP
+* Show the Pickcode I used to tinker with
+* Show my code
+* Changes with feedback(Beyond MVP)
+
 
 ## Conclusion
-* 
-
-<!-- EXAMPLE
-
-## Hook
-* Verbal riddle of GGD
-
-## Product
-* GIF/Demo of example/non-example
-
-## Process
-* Flowchart of plan
-  * MVP: noun -> door -> yes/no
-  * Beyond MVP: noun -> word relation API -> noun API -> yes/no, with counterexample
-* Code snippets of:
-  * MVP
-  * Both APIs
-  * Challenge with API keys
-
-## Conclusion
-* [URL to project]
-* Takeaways
-  * Less = more: the heart of the riddle was one line of code; it obviously took more to make the entire thing work, but one complicated line of regular expressions was essentially the solution to the riddle
-  * Expect the unexpected: it’s important to budget time for things you don’t account for; for example, I didn’t consider the fact that I would need another entire API to detect nouns
-  * Determination is key: ironically enough, I had to make my API keys private. At first, it didn’t seem like it was possible, which meant I couldn’t publish my app. But after all of that hard work, I was determined to find a solution, and I found it in config variables.
-* "Presentation can’t, but a speech can"
+* Takeaways: spending a lot of time choosing the pictures and background code instead of actually doing the project
+* Beneifts sports provide
+* [preview](https://jaydenc3399.github.io/sep10-freedom-project/?authuser=0)
 
 
--->
