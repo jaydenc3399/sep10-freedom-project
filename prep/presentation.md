@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Just imagine carrying a whole entire basketball field or volleyball field at thepalm of your hand and being able to use it anywhere and anytime. I have some possible future innovations like 3-D holographic courts projected by drones and all you need is open space just name when and where.
+* Just imagine carrying a whole entire basketball field or volleyball field at the palm of your hand and being able to use it anywhere and anytime. I have some possible future innovations like 3-D holographic courts projected by drones and all you need is open space just name when and where.
 
 ## Product
 * I will first start off with some broad information about sports and how things like devices and hardware and ai apply to the modern generation of sports.
@@ -10,8 +10,8 @@
 
 ## Process
 * MVP
-* Show the Pickcode I used to tinker with
-* Show my code
+* Show the Pickcode I used to tinker with like keyframes, translation and more 
+* Show my code the parts where I implented and use animamtion to show the use of my tool
 * Changes with feedback(Beyond MVP)
 
 
