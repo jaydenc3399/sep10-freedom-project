@@ -2,10 +2,10 @@
 by **Jayden Cen**
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing. The purpose of the freedom project is to create various possible future innovations in the field that we have researched about using our imagination, embracing the word "freedom" and putting no limit on our imagination and brains. 
+I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing. The purpose of the freedom project is to create various possible future innovations in the field that we have researched about using our imagination, embracing the word "freedom" and putting no limit on our imagination and brains. My project was about sports and differnet types of sports apps, hardwares and other things that could be used in the future including the current inventions. These inventions were meant to help people especially atheltes enhancing and taking their game to the next level. Inventions like holographic fields where it is conveienet to use anywhere and anytime without walking to places like the part. Also robots that can help grab equipment back for you so you dont have to do much work. This was jsut some of the innovations that i thought of that could be beneficial to many people and atheletes.  
 
 ## Blog Content 
-In my blogs, they were a learning log where I processed everything that I was doing liek a timeline. I started off choosing my topic, researching about it, planning what my website would look like using wireframes, practcing my 
+In my blogs, they were a learning log where I processed everything that I was doing like a timeline for my freedom project. I started off choosing my topic, researching about it, both parts a and b. After I chose the tool that I was working with which was animation I started to practice on how to use the tool. Using that we started to create our MVP and I started first by creating wireframes to plan what the website would look like. After creating the MVP I went beyond MVP using feedback and then presenting the product that I had. 
 
 For my project, I chose the topic of **Sports Technology**. 
 
