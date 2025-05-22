@@ -2,11 +2,14 @@
 by **Jayden Cen**
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
+I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing. The purpose of the freedom project is to create various possible future innovations in the field that we have researched about using our imagination, embracing the word "freedom" and putting no limit on our imagination and brains. 
+
+## Blog Content 
+In my blogs, they were a learning log where I processed everything that I was doing liek a timeline. I started off choosing my topic, researching about it, planning what my website would look like using wireframes, practcing my 
 
 For my project, I chose the topic of **Sports Technology**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **animation** in order to help me make my website. 
 
 ## Links
 
