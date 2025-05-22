@@ -25,13 +25,22 @@ In my blogs, they were a learning log where I processed everything that I was do
 [Product](https://jaydenc3399.github.io/sep10-freedom-project/?authuser=0)
 
 [Presentation](https://docs.google.com/presentation/d/1S8LSHDK6EPt7Vi9eETr8gy11RhT_bVRvWvdfuA54-1A/edit))
-
+o
 ## Implications
 ##### PROS
-* 
-##### CONS
-* 
+* **Social/individuals/relationships**
+   * *Individual*- Can help increase skill level, teaching things like new skills and providing feedback.
+   * *Relationships*- Robots can help hang out with you when your lonley or when no one is around to play sports with you
+   * *Global*- Increased energy consumption
+* Culture
+  *  
 
+##### CONS
+* **Global/environment**
+  * *Environemnt*- An increase in use of materials like metal
+* **Economic**
+  * *Job displacements*- robots taking over jobs of some people in certain fields
+  * 
 
 ## Blog
 Below you will find my blog about how I made my project.
