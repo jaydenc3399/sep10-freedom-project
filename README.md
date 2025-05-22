@@ -10,9 +10,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Links
 
-[Product]()
+[Product](https://jaydenc3399.github.io/sep10-freedom-project/?authuser=0)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1S8LSHDK6EPt7Vi9eETr8gy11RhT_bVRvWvdfuA54-1A/edit))
 
 ## Implications
 ##### PROS
