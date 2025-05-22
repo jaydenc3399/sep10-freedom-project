@@ -33,7 +33,7 @@ o
    * *Relationships*- Robots can help hang out with you when your lonley or when no one is around to play sports with you
    * *Global*- Increased energy consumption
 * Culture
-  *  
+  *  Continues the legacy of sports and the culture that was placed by many other before and adding new things to the culture. 
 
 ##### CONS
 * **Global/environment**
