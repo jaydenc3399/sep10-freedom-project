@@ -25,7 +25,7 @@ In my blogs, they were a learning log where I processed everything that I was do
 [Product](https://jaydenc3399.github.io/sep10-freedom-project/?authuser=0)
 
 [Presentation](https://docs.google.com/presentation/d/1S8LSHDK6EPt7Vi9eETr8gy11RhT_bVRvWvdfuA54-1A/edit))
-o
+
 ## Implications
 ##### PROS
 * **Social/individuals/relationships**
@@ -33,14 +33,15 @@ o
    * *Relationships*- Robots can help hang out with you when your lonley or when no one is around to play sports with you
    * *Global*- Increased energy consumption
 * Culture
-  *  Continues the legacy of sports and the culture that was placed by many other before and adding new things to the culture. 
-
+  *  Continues the legacy of sports and the culture that was placed by many other before adds on to atheltes and peoples experiences creating many oppurtunities
+  *  New technology like robots brings a sense of inviting making more people want to play sports to test out the technology and just making sports more fun and easy. 
 ##### CONS
 * **Global/environment**
   * *Environemnt*- An increase in use of materials like metal
 * **Economic**
   * *Job displacements*- robots taking over jobs of some people in certain fields
-  * 
+* **Social**
+  *   
 
 ## Blog
 Below you will find my blog about how I made my project.
