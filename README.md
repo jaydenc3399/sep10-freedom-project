@@ -41,7 +41,7 @@ In my blogs, they were a learning log where I processed everything that I was do
 * **Economic**
   * *Job displacements*- robots taking over jobs of some people in certain fields
 * **Social**
-  *   
+  * *Individual*- you will spend more time just playing sports rather than doing importnat things like school work and wont have time to do other things.  
 
 ## Blog
 Below you will find my blog about how I made my project.
