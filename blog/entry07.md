@@ -27,6 +27,10 @@ Right now I have reached the end of the enginerring design process which is step
 
 ## Skills
 
+---
+
+## Time managment
+I am able to manage my time thro
 
 
 Text
