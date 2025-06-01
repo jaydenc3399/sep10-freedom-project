@@ -23,6 +23,7 @@ While presenting I found that some of the stuff taht I wrote for my elevator pit
 ---
 
 ## Engineering Design Process
+Right now I have reached the end of the enginerring design process wehre I basiclly communicated my resuklts. I did this by doing the in class presentation amoung with my peers and the teacher where I showed off my wesbite and the future innovations, the tool I used etc. Not only did I communicate my reults with my peers I also communicated my results with the people at the SEP expo which was mainly all freshman and the judges were seniors and I got the chance to share my project and what I made that could be beneficial to sports and how this technolgoy in sports can take your game to the next level. 
 
 
 Text
