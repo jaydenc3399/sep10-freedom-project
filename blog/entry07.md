@@ -32,7 +32,8 @@ Right now I have reached the end of the enginerring design process which is step
 ## Time managment
 The end of the school year is coming up and there are a bunch of finals, projects, presentations fo each classa. Its become a little hard for me to manage my time including the satruday calsses that I have for SAT. With all this studying and trying to practice for each presentation it has given me less and less time to do other things and less free time. I made a sort of scehdule to help me combat this issue, it includes seperating time each day and prioritizing the ones with closer due dates. SPending mroe time and a little less time on the ones that are due later. This schedule plan has helped me balance both my life making it a little stress free for me so that I can still have time for other things even if thats like thinking about new freedom project ideas that I want to do next year or also having just some free time for me to take a break. 
 
-## c
+## Creativity
+While working on my freedom project for the expo part I jsut found that my hook was just not intresting enough and that people wouldnt come over to see my project because the hook wasnt good enough. But by thinking outside the box and creating a new hook it started making people laugh and it attracted more people and they ended up liking my project. I also used creativity outside of the freedom project which was for ym BHP project which was about electric cars 
 
 
 Text
