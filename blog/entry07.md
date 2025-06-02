@@ -36,7 +36,6 @@ The end of the school year is coming up and there are a bunch of finals, project
 While working on my freedom project for the expo part I jsut found that my hook was just not intresting enough and that people wouldnt come over to see my project because the hook wasnt good enough. But by thinking outside the box and creating a new hook it started making people laugh and it attracted more people and they ended up liking my project. I also used creativity outside of the freedom project which was for my BHP project which was about electric cars. I thought of different types of ways that could be intresting for the audience. I could use so that they would be entertained and also attract people to our poster board. I bought two electric cars that they could race around which is both fun and also realtes to the topic for our creative and fun part in the BHP fair. 
 
 
-Text
 
 [Previous](entry06.md) | [Next](entry08.md)
 
