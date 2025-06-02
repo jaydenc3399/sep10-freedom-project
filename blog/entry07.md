@@ -14,10 +14,10 @@ While presenting my freedom project some takeaways that I had was to not always 
 
 
 # Takeaways from Expo
-## **Always make eye contact no matter how nervous you feel**
+### **Always make eye contact no matter how nervous you feel**
 During the SEP expo I was presenting to all the freshmen perfectly fine but when the judges came I felt a nervous feeling in a way. I made eye contact with the freshman while I was presenting but during the SEP expo when the judges came I found myself making less eye contact than I was with the freshmans. I turned back not so often to look at the judges but just like in the class presentation I only made eye contact with the boys on my left instead of the girls on my right. This in a way i'm pretty sure lowered the score for my project down a little bti so for next time I am going to make sure that I look at the entirety of the judges and not just two people, being more calm because when I get nervous I start to not be able to think what i'm going to say next. 
 
-## **You don't always have to stick to the script that you wrote**
+### **You don't always have to stick to the script that you wrote**
 While presenting I found that some of the stuff that I wrote for my elevator pitch was not as eye-catching so I changed it up a little bit. I noticed that my hook that I was going to give was mostly realted to only sports atheltes and not the entirety. I changed the question to a more general question from "Do any of you play for a HSAT sports team?" to "Do you guys play any sports inside or outside of this school?" For my hook, the question I asked was how do ai technology get invovled in sports and to spice this up and make viewers sort of laugh I incldued also a comparison or similairty saying how can ai be incopoerated into the world of sports jsut like chatgpt being incoporated into things like our school, wrting essays and schoolwork. I tried the first hook without saying the part for the chat gpt and man of the viewers were not very amused and not entertained. After changing my script up a little some of the freshmen started laughing at this at my comparison with chat gpt and ai in sports. This shows how you dont always have to stick with the script and its ok to let your mind be free and to thik of other possibilites. A plan is not a set rule on how you should present your project. 
 
 ---
